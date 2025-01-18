@@ -1,0 +1,387 @@
+[
+    {
+        "question": "Which sensor is commonly used to measure air quality in IoT applications?",
+        "options": ["DHT11", "MQ-series sensors", "BMP180", "DS18B20"],
+        "answer": "MQ-series sensors"
+    },
+    {
+        "question": "What is the role of a microcontroller in an IoT system?",
+        "options": ["Process data from sensors and control actuators", "Transmit data to the cloud", "Convert analog signals to digital", "Manage network connections"],
+        "answer": "Process data from sensors and control actuators"
+    },
+    {
+        "question": "Which IoT communication technology is designed for low-power, wide-area networks and long-range communication?",
+        "options": ["LoRa", "Wi-Fi", "Bluetooth", "NFC"],
+        "answer": "LoRa"
+    },
+    {
+        "question": "What type of address is used to uniquely identify a device in IoT systems?",
+        "options": ["IPv6 address", "UUID", "IP address", "MAC address"],
+        "answer": "MAC address"
+    },
+    {
+        "question": "In IoT, what does the term 'fog computing' refer to?",
+        "options": ["Data storage in the cloud", "Processing data at the network edge closer to devices", "A security protocol for IoT devices", "A type of sensor network"],
+        "answer": "Processing data at the network edge closer to devices"
+    },
+    {
+        "question": "Which type of wireless technology is primarily used in smart home devices like Amazon Echo or Google Nest?",
+        "options": ["LoRaWAN", "Wi-Fi", "ZigBee", "LTE"],
+        "answer": "ZigBee"
+    },
+    {
+        "question": "What is the primary purpose of an IoT edge device?",
+        "options": ["Store historical data for analytics", "Manage device firmware updates", "Provide centralized control of IoT networks", "Perform data processing locally and reduce latency"],
+        "answer": "Perform data processing locally and reduce latency"
+    },
+    {
+        "question": "In IoT systems, what is the role of a protocol stack?",
+        "options": ["Manage communication between devices and networks", "Secure data transmission between devices", "Optimize battery consumption", "Automate device discovery in networks"],
+        "answer": "Manage communication between devices and networks"
+    },
+    {
+        "question": "What is the full form of CoAP in IoT communication protocols?",
+        "options": ["Constrained Application Process", "Communication Application Protocol", "Constrained Application Protocol", "Coherent Application Procedure"],
+        "answer": "Constrained Application Protocol"
+    },
+    {
+        "question": "Which IoT platform is developed by Google?",
+        "options": ["AWS IoT Core", "IBM Watson IoT", "Azure IoT Hub", "Google Cloud IoT Core"],
+        "answer": "Google Cloud IoT Core"
+    },
+    {
+        "question": "Which sensor is most suitable for measuring temperature in a furnace?",
+        "options": ["Thermistor", "RTD", "Thermocouple", "Infrared sensor"],
+        "answer": "Thermocouple"
+    },
+    {
+        "question": "What is the function of a rotameter?",
+        "options": ["Measure pressure", "Measure flow rate", "Measure temperature", "Measure level"],
+        "answer": "Measure flow rate"
+    },
+    {
+        "question": "The accuracy of a measurement system refers to:",
+        "options": ["Its ability to produce consistent results", "Its closeness to the true value", "Its ability to detect small changes", "Its speed of response"],
+        "answer": "Its closeness to the true value"
+    },
+    {
+        "question": "What type of sensor is commonly used to measure vibration?",
+        "options": ["Accelerometer", "Strain gauge", "Proximity sensor", "Gyroscope"],
+        "answer": "Accelerometer"
+    },
+    {
+        "question": "Which device is used to convert a physical quantity into an electrical signal?",
+        "options": ["Actuator", "Transducer", "Amplifier", "Rectifier"],
+        "answer": "Transducer"
+    },
+    {
+        "question": "What does the term 'dead zone' refer to in an instrument?",
+        "options": ["The range where the instrument shows maximum sensitivity", "The range where the instrument cannot detect changes", "The range where the instrument operates linearly", "The range where the instrument measures over its capacity"],
+        "answer": "The range where the instrument cannot detect changes"
+    },
+    {
+        "question": "LVDT is used to measure:",
+        "options": ["Pressure", "Temperature", "Displacement", "Flow"],
+        "answer": "Displacement"
+    },
+    {
+        "question": "What is the primary purpose of a signal conditioner in instrumentation?",
+        "options": ["To store data", "To amplify or modify signals for better processing", "To measure environmental changes", "To improve the lifespan of sensors"],
+        "answer": "To amplify or modify signals for better processing"
+    },
+    {
+        "question": "Which instrument is used to measure very low pressure (vacuum)?",
+        "options": ["U-tube manometer", "Bourdon tube", "Pirani gauge", "Thermocouple"],
+        "answer": "Pirani gauge"
+    },
+    {
+        "question": "In process control, the 'setpoint' refers to:",
+        "options": ["The output of the controller", "The desired value of the process variable", "The feedback from the system", "The maximum allowable error in the system"],
+        "answer": "The desired value of the process variable"
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for error detection and correction?",
+        "options": ["Application layer", "Data link layer", "Network layer", "Transport layer"],
+        "answer": "Data link layer"
+    },
+    {
+        "question": "What is the primary purpose of the ARP protocol in networking?",
+        "options": ["To map IP addresses to MAC addresses", "To assign dynamic IP addresses", "To route packets between networks", "To encrypt network traffic"],
+        "answer": "To map IP addresses to MAC addresses"
+    },
+    {
+        "question": "What is the standard port number for HTTPS?",
+        "options": ["80", "21", "443", "25"],
+        "answer": "443"
+    },
+    {
+        "question": "Which of the following protocols is connection-oriented?",
+        "options": ["TCP", "UDP", "ICMP", "ARP"],
+        "answer": "TCP"
+    },
+    {
+        "question": "What is the maximum theoretical data transfer rate of a 1 Gbps Ethernet network?",
+        "options": ["100 MBps", "125 MBps", "1 GBps", "150 MBps"],
+        "answer": "125 MBps"
+    },
+    {
+        "question": "Which layer of the TCP/IP model corresponds to the OSI Transport Layer?",
+        "options": ["Application layer", "Internet layer", "Transport layer", "Network access layer"],
+        "answer": "Transport layer"
+    },
+    {
+        "question": "In IPv6, how many bits are used in an IP address?",
+        "options": ["32", "64", "128", "256"],
+        "answer": "128"
+    },
+    {
+        "question": "What is the purpose of NAT (Network Address Translation)?",
+        "options": ["To secure network communication", "To translate private IP addresses to public IP addresses", "To prioritize network traffic", "To monitor network traffic"],
+        "answer": "To translate private IP addresses to public IP addresses"
+    },
+    {
+        "question": "Which protocol is commonly used for email retrieval?",
+        "options": ["SMTP", "IMAP", "FTP", "SNMP"],
+        "answer": "IMAP"
+    },
+    {
+        "question": "What is the primary function of a switch in a network?",
+        "options": ["To connect different networks", "To forward data packets within a single network", "To assign IP addresses to devices", "To encrypt network traffic"],
+        "answer": "To forward data packets within a single network"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": ["Ampere", "Ohm", "Volt", "Watt"],
+        "answer": "Ohm"
+    },
+    {
+        "question": "What is the primary purpose of a capacitor in an AC circuit?",
+        "options": ["To store energy", "To block DC and allow AC to pass", "To convert AC to DC", "To step up voltage"],
+        "answer": "To block DC and allow AC to pass"
+    },
+    {
+        "question": "Which type of current flows in one direction only?",
+        "options": ["Alternating Current (AC)", "Direct Current (DC)", "Pulsating Current", "Reverse Current"],
+        "answer": "Direct Current (DC)"
+    },
+    {
+        "question": "What is the function of a diode in an electrical circuit?",
+        "options": ["To step up voltage", "To allow current to flow in only one direction", "To amplify signals", "To store electrical energy"],
+        "answer": "To allow current to flow in only one direction"
+    },
+    {
+        "question": "What is the main advantage of a 3-phase power system over a single-phase system?",
+        "options": ["Simpler wiring", "Higher efficiency and smoother power delivery", "Lower cost", "Better voltage regulation"],
+        "answer": "Higher efficiency and smoother power delivery"
+    },
+    {
+        "question": "What is the unit of capacitance?",
+        "options": ["Farad", "Ohm", "Volt", "Watt"],
+        "answer": "Farad"
+    },
+    {
+        "question": "In an RLC circuit, what does the L represent?",
+        "options": ["Inductance", "Resistance", "Capacitance", "Power"],
+        "answer": "Inductance"
+    },
+    {
+        "question": "Which of the following is a non-renewable source of energy?",
+        "options": ["Solar energy", "Wind energy", "Coal", "Hydropower"],
+        "answer": "Coal"
+    },
+    {
+        "question": "Which law states that the current through a conductor is directly proportional to the voltage across it?",
+        "options": ["Ohm's Law", "Kirchhoff's Law", "Coulomb's Law", "Faraday's Law"],
+        "answer": "Ohm's Law"
+    },
+    {
+        "question": "What is the SI unit of electric current?",
+        "options": ["Ampere", "Volt", "Ohm", "Watt"],
+        "answer": "Ampere"
+    },
+    {
+        "question": "In electrical circuits, what does the symbol 'R' represent?",
+        "options": ["Resistance", "Voltage", "Current", "Power"],
+        "answer": "Resistance"
+    },
+    {
+        "question": "What is the unit of electric power?",
+        "options": ["Volt", "Ohm", "Watt", "Ampere"],
+        "answer": "Watt"
+    },
+    {
+        "question": "What is the main purpose of an electrical transformer?",
+        "options": ["To store energy", "To increase or decrease voltage", "To regulate current", "To convert AC to DC"],
+        "answer": "To increase or decrease voltage"
+    },
+    {
+        "question": "In a series circuit, the total resistance is:",
+        "options": ["The sum of individual resistances", "The average of individual resistances", "The product of individual resistances", "The maximum of individual resistances"],
+        "answer": "The sum of individual resistances"
+    },
+    {
+        "question": "What is the function of a fuse in an electrical circuit?",
+        "options": ["To control current flow", "To store energy", "To prevent excessive current", "To step up voltage"],
+        "answer": "To prevent excessive current"
+    },
+    {
+        "question": "What is the function of a relay in an electrical circuit?",
+        "options": ["To amplify signals", "To control high power devices using low power", "To regulate voltage", "To step down current"],
+        "answer": "To control high power devices using low power"
+    },
+    {
+        "question": "What does the term 'power factor' refer to in an AC circuit?",
+        "options": ["The ratio of actual power to apparent power", "The ratio of voltage to current", "The ratio of capacitance to inductance", "The ratio of current to resistance"],
+        "answer": "The ratio of actual power to apparent power"
+    },
+    {
+        "question": "What is the unit of frequency?",
+        "options": ["Hertz", "Ohm", "Volt", "Watt"],
+        "answer": "Hertz"
+    },
+    {
+        "question": "What is the characteristic of an ideal voltage source?",
+        "options": ["Constant voltage regardless of the current drawn", "Constant current regardless of the voltage", "Variable voltage", "Variable current"],
+        "answer": "Constant voltage regardless of the current drawn"
+    },
+    {
+        "question": "What is the primary function of a capacitor in an electronic circuit?",
+        "options": ["Store electrical energy", "Control current flow", "Amplify signals", "Regulate voltage"],
+        "answer": "Store electrical energy"
+    },
+    {
+        "question": "What is the main function of a diode in an electrical circuit?",
+        "options": ["Allow current to flow in both directions", "Allow current to flow in one direction", "Amplify signals", "Store energy"],
+        "answer": "Allow current to flow in one direction"
+    },
+    {
+        "question": "What is the primary difference between AC and DC?",
+        "options": ["AC changes direction periodically, while DC flows in one direction", "AC flows in one direction, while DC changes direction periodically", "AC is more efficient than DC", "DC is used for power transmission, AC is not"],
+        "answer": "AC changes direction periodically, while DC flows in one direction"
+    },
+    {
+        "question": "In electrical systems, what does the term 'grounding' refer to?",
+        "options": ["Connecting a conductor to the earth", "Regulating voltage levels", "Controlling current flow", "Transmitting power over long distances"],
+        "answer": "Connecting a conductor to the earth"
+    },
+    {
+        "question": "What is the principle of operation of an electric motor?",
+        "options": ["Conversion of electrical energy to mechanical energy", "Conversion of mechanical energy to electrical energy", "Conversion of heat energy to mechanical energy", "Conversion of sound energy to electrical energy"],
+        "answer": "Conversion of electrical energy to mechanical energy"
+    },
+    {
+        "question": "What does the term 'load' refer to in an electrical circuit?",
+        "options": ["The source of electrical energy", "The component that consumes electrical power", "The conductor that carries current", "The component that stores electrical energy"],
+        "answer": "The component that consumes electrical power"
+    },
+    {
+        "question": "Which of the following is a conductor of electricity?",
+        "options": ["Wood", "Plastic", "Copper", "Glass"],
+        "answer": "Copper"
+    },
+    {
+        "question": "What does the 'k' in 'kWh' stand for?",
+        "options": ["Kilo", "Kilovolt", "Kilogram", "Kelvin"],
+        "answer": "Kilo"
+    },
+    {
+        "question": "What is the primary use of a step-up transformer?",
+        "options": ["To increase current", "To decrease voltage", "To increase voltage", "To convert DC to AC"],
+        "answer": "To increase voltage"
+    },
+    {
+        "question": "What is the primary advantage of an electric circuit with a parallel arrangement?",
+        "options": ["Current is the same across all components", "Voltage is the same across all components", "Resistance is the same across all components", "The circuit is simpler"],
+        "answer": "Voltage is the same across all components"
+    },
+    {
+        "question": "What is the purpose of an ammeter in an electrical circuit?",
+        "options": ["To measure voltage", "To measure current", "To measure resistance", "To measure power"],
+        "answer": "To measure current"
+    },
+    {
+        "question": "What is the purpose of a voltmeter in an electrical circuit?",
+        "options": ["To measure current", "To measure resistance", "To measure voltage", "To measure power"],
+        "answer": "To measure voltage"
+    },
+    {
+        "question": "What does the 'S' in 'SI unit' stand for?",
+        "options": ["Standard", "System", "Scientific", "Simple"],
+        "answer": "System"
+    },
+    {
+        "question": "In an electric circuit, what does 'DC' stand for?",
+        "options": ["Dynamic current", "Direct current", "Dual current", "Differential current"],
+        "answer": "Direct current"
+    },
+    {
+        "question": "What is the function of an oscillating circuit?",
+        "options": ["To produce a steady signal", "To produce a varying signal", "To measure electrical current", "To control voltage levels"],
+        "answer": "To produce a varying signal"
+    },
+    {
+        "question": "What does the 'P' in 'P=VI' stand for?",
+        "options": ["Power", "Pressure", "Power factor", "Potential"],
+        "answer": "Power"
+    },
+    {
+        "question": "Which of the following is a renewable energy source?",
+        "options": ["Coal", "Wind", "Oil", "Natural gas"],
+        "answer": "Wind"
+    },
+    {
+        "question": "What is the purpose of a capacitor in a power factor correction circuit?",
+        "options": ["To store electrical energy", "To reduce the phase difference between voltage and current", "To amplify the electrical current", "To increase the current flow"],
+        "answer": "To reduce the phase difference between voltage and current"
+    },
+    {
+        "question": "What is the unit of inductance?",
+        "options": ["Henry", "Ohm", "Volt", "Ampere"],
+        "answer": "Henry"
+    },
+    {
+        "question": "In an electrical circuit, what does the 'C' in 'C=Q/V' stand for?",
+        "options": ["Capacitance", "Current", "Voltage", "Charge"],
+        "answer": "Capacitance"
+    },
+    {
+        "question": "What is the principle behind a dynamo?",
+        "options": ["Magnetic induction", "Electromagnetic induction", "Thermoelectric effect", "Photovoltaic effect"],
+        "answer": "Electromagnetic induction"
+    },
+    {
+        "question": "In a transformer, the ratio of the number of turns in the primary coil to the number of turns in the secondary coil is called the:",
+        "options": ["Turn ratio", "Voltage ratio", "Current ratio", "Power ratio"],
+        "answer": "Turn ratio"
+    },
+    {
+        "question": "What is the primary function of a circuit breaker?",
+        "options": ["To limit current", "To prevent overheating", "To interrupt power in case of a fault", "To store electrical energy"],
+        "answer": "To interrupt power in case of a fault"
+    },
+    {
+        "question": "Which of the following is used to store electrical charge in a circuit?",
+        "options": ["Inductor", "Capacitor", "Resistor", "Transistor"],
+        "answer": "Capacitor"
+    },
+    {
+        "question": "Which of the following is an example of an insulator?",
+        "options": ["Copper", "Wood", "Steel", "Aluminum"],
+        "answer": "Wood"
+    },
+    {
+        "question": "What is the main principle behind the working of a refrigerator?",
+        "options": ["Conduction", "Convection", "Radiation", "Evaporation and condensation"],
+        "answer": "Evaporation and condensation"
+    },
+    {
+        "question": "What is the purpose of a rectifier in an electrical circuit?",
+        "options": ["To convert AC to DC", "To regulate voltage", "To increase voltage", "To store electrical energy"],
+        "answer": "To convert AC to DC"
+    },
+    {
+        "question": "What is the main purpose of an electric generator?",
+        "options": ["To convert mechanical energy to electrical energy", "To store electrical energy", "To convert electrical energy to mechanical energy", "To amplify electrical signals"],
+        "answer": "To convert mechanical energy to electrical energy"
+    }
+]
