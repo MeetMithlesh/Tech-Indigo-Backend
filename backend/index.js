@@ -10,7 +10,10 @@ const paymentRouter = require("./routes/payment.js");
 const quizRouter = require("./routes/quiz.js");
 
 app.use(cors(
-    {origin:'https://tech-indigo-event.vercel.app'}
+    {origin:'https://tech-indigo-event.vercel.app',
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+    credentials:true}
 ));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
